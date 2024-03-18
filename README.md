@@ -1,1 +1,1 @@
-# hartattack-predict-using-ml
+# heartattack-predict-using-ml
